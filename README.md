@@ -1,2 +1,2 @@
-# go-server
+# GO-server
 Web server with Golang
